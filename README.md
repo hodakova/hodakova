@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <h3>Projects</h3>
 
 [![Tubes ARC](https://github-readme-stats.vercel.app/api/pin/?username=yasminfath&theme=vision-friendly-dark&repo=arc-tubes)](https://github.com/yasminfath/arc-tubes)
+[![Tubes Daspro](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=Bandung_vs_Roro)](https://github.com/hodakova/Bandung_vs_Roro)
 [![Tubes Sparta](https://github-readme-stats.vercel.app/api/pin/?username=Edvardesu&theme=vision-friendly-dark&repo=Milestone02_K12)](https://github.com/Edvardesu/Milestone02_K12)
 [![Tubes Alstrukdat](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=WayangWave)](https://github.com/hodakova/WayangWave)
 
