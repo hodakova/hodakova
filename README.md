@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 
   <h3>STEI Courses</h3>
 
-[![IF2111 Algoritþm and Data Structure IST'22](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=if2111_alstrukdat)](https://github.com/hodakova/if2111_alstrukdat)
-[![II2130 Computer Arxitecture and Systems IST'22](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=ii2130_arsikom)](https://github.com/hodakova/ii2130_arsikom)
-[![II2230 Computer Network IST'22](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=ii2230_jarkom)](https://github.com/hodakova/ii2230_jarkom)
+[![IF2111](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=if2111_alstrukdat)](https://github.com/hodakova/if2111_alstrukdat)
+[![II2130](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=ii2130_arsikom)](https://github.com/hodakova/ii2130_arsikom)
+[![II2230](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=ii2230_jarkom)](https://github.com/hodakova/ii2230_jarkom)
+[![IF2212](https://github-readme-stats.vercel.app/api/pin/?username=hodakova&theme=vision-friendly-dark&repo=if2212_oop)](https://github.com/hodakova/if2212_oop)
 
 ---
